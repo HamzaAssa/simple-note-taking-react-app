@@ -2,7 +2,7 @@
   "name": "first-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": ".",
+  "homepage": "https://github.com/hamzaassa/simple-note-taking-react-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
